@@ -1,3 +1,5 @@
+
+
 #String methods
 strA = "Huynh Dang khoa"
 strB = strA.capitalize()
@@ -117,3 +119,9 @@ print('pop_list =', listL, '\n', 'pop =', pop, '\n')
 print('remove_list =', listM, '\n')
 print('reverse_list =', listN, '\n')
 print('sort_list =', listN, '\n')
+
+
+
+
+#Hashable types
+
